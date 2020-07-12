@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![MyanmarFlag](https://www.freepik.com/free-vector/illustration-myanmar-flag_2922535.htm)
